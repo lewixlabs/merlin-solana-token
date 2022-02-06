@@ -2,3 +2,4 @@
 
 ## Token name: *Merlino Token*
 ## Token abbreviation: *MRLN*
+## Tutorial from youtube (Networkchuck): https://youtu.be/befUVytFC80?t=1530
